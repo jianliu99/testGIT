@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 new deve
-=======
-updated again.
->>>>>>> be64352fbdc459dbc16d954e2c11af3f2f34b2d7
