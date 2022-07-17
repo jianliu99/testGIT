@@ -8,6 +8,4 @@ update on github
 edit on github again
 edit 3rd time
 
-udpate on intelliJ
-commit now
-
+udpate master
