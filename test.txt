@@ -17,3 +17,5 @@ add new line 1 at master
 add new line 2 at master
 
 add new line at master
+
+append one line at master
