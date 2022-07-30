@@ -15,3 +15,5 @@ add new line 5
 
 add new line 1 at master
 add new line 2 at master
+
+add a new line 3 at master
