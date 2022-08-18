@@ -18,3 +18,5 @@ add new line 5
 update master again 5
 
 master 1
+
+master tail
