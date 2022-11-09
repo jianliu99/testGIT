@@ -20,9 +20,3 @@ update master again 5
 master 1
 
 master tail
-
-add feature
-
-add in master
-
-add new
