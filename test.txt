@@ -24,5 +24,3 @@ master tail
 add in master
 
 add 1 in feature
-
-add 2 in feature
