@@ -18,7 +18,4 @@ addd new
 adfadfafd
 adfadf
 
-update 2 in feature
-
-update 3 in feature
 
