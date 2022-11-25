@@ -27,3 +27,5 @@ add 1 in master
 add 2 in master
 
 add new
+
+add line 2
