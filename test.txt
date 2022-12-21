@@ -28,11 +28,7 @@ add 2 in master
 
 add new
 
-add line 2
 line 1
 
 line 2
 
-new line
-
-new master
