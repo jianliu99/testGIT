@@ -10,7 +10,6 @@ graph TD;
     D --> B;
 ```
 
-```mermaid
 graph TD2;
     A[Start] --> B{Is it clear?};
     B -->|Yes| C[End];
