@@ -8,9 +8,3 @@ graph TD;
     B -->|Yes| C[End];
     B -->|No| D[Revise];
     D --> B;
-
-graph TD2;
-    A1[Start] --> B1{Is it clear?};
-    B1 -->|Yes| C1[End];
-    B1-->|No| D1[Revise];
-    D1 --> B1;
